@@ -50,10 +50,8 @@ streamlit run app.py  # If using Streamlit
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to enhance the project!
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
----
+
 
 💡 *Enhance image understanding with AI-powered captioning!* 🚀
 
