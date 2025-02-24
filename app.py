@@ -1,5 +1,5 @@
 
-api_key = 'AIzaSyBz8LdpmIqHNIwRNC4gBxEZ0OOglJR6oB4'                                          
+api_key = 'YOUR API KEY'                                          
 import streamlit as st
 from PIL import Image
 import google.generativeai as genai
